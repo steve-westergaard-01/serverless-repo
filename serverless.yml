@@ -13,8 +13,8 @@
 
 service: dep-engine-testing
 # app and org for use with dashboard.serverless.com
-#app: your-app-name
-#org: your-org-name
+app: dep-engine-testing
+org: stevewestergaard01
 
 # You can pin your service to only deploy with a specific Serverless version
 # Check out our docs for more details
@@ -39,7 +39,7 @@ provider:
 #        - "s3:PutObject"
 #      Resource:
 #        Fn::Join:
-#          - ""
+#          - ""sls de
 #          - - "arn:aws:s3:::"
 #            - "Ref" : "ServerlessDeploymentBucket"
 #            - "/*"
