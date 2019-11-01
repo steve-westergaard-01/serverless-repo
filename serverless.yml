@@ -11,10 +11,10 @@
 #
 # Happy Coding!
 # dev key - AKxV8KqaP2pA4QydTfFJWGPi9tZDKDxUu0jeZrbPDNcMI
-service: dep-engine-testing
+service: steve-depengine-2
 # app and org for use with dashboard.serverless.com
-app: dep-engine-testing
-org: stevewestergaard01
+app: steve-depengine
+org: stevewestergaard
 
 # You can pin your service to only deploy with a specific Serverless version
 # Check out our docs for more details
